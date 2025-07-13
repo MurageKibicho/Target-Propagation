@@ -7,6 +7,8 @@ Target propagation takes 5 minutes to achieve 39% accuracy on MNIST on CPU.
 
 It is extremely slow tbh. I guess this is why it failed to go mainstream post-2015.
 
+![MNIST Results](MNISTresults.png)
+
 # Papers Uploaded
 1. Bengio, Y,. (2014). How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation. ArXiv. https://doi.org/10.48550/arXiv.1407.7906
 
